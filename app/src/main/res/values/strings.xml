@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestProject</string>
+    <string name="check_internet">Please check your internet or try again later</string>
+</resources>
